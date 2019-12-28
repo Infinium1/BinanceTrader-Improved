@@ -1,0 +1,6 @@
+{
+    "interval": "2h",
+    "repeatTime": "5",
+    "backtestMode": true,
+    "symbol": "BTCUSDT"
+}
